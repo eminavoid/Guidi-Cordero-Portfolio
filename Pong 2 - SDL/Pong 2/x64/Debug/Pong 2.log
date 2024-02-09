@@ -1,0 +1,8 @@
+﻿  Pong 2.cpp
+D:\coding\c++\Pong 2\Pong 2\Pong 2.cpp(87,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\coding\c++\Pong 2\Pong 2\Pong 2.cpp(88,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\coding\c++\Pong 2\Pong 2\Pong 2.cpp(97,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\coding\c++\Pong 2\Pong 2\Pong 2.cpp(98,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\coding\c++\Pong 2\Pong 2\Pong 2.cpp(128,15): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\coding\c++\Pong 2\Pong 2\Pong 2.cpp(129,15): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Pong 2.vcxproj -> D:\coding\c++\Pong 2\Pong 2\x64\Debug\Pong 2.exe
